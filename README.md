@@ -1,2 +1,2 @@
 # oauth2-client-app
-Android application with authenticate using OAuth2
+Android application with OAuth2 authentication
