@@ -1,5 +1,6 @@
 # oauth2-client-app
 Android application with OAuth2 authentication
+
 a fancy feature of this application is automatically refresh token if 'access_token' is expired
 
 
